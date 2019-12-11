@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "com.unity.render-pipelines.core": "file:../../ScriptableRenderPipeline/com.unity.render-pipelines.core",
+    "com.unity.render-pipelines.high-definition": "file:../../ScriptableRenderPipeline/com.unity.render-pipelines.high-definition",
+    "com.unity.render-pipelines.high-definition-config": "file:../../ScriptableRenderPipeline/com.unity.render-pipelines.high-definition-config",
+    "com.unity.shadergraph": "file:../../ScriptableRenderPipeline/com.unity.shadergraph",
+    "com.unity.visualeffectgraph": "file:../../ScriptableRenderPipeline/com.unity.visualeffectgraph"
+  }
+}
